@@ -1,11 +1,11 @@
-About pynimate
-==============
+About pynimate-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pynimate-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/pynimate/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pynimate-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python package for statistical data animations
 
