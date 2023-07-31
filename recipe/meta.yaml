@@ -1,5 +1,5 @@
 {% set name = "pynimate" %}
-{% set version = "1.2.0" %}
+{% set version = "1.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pynimate-{{ version }}.tar.gz
-  sha256: 233b31c34180475c443608ba11d822ed9a9261c7e78c9fd2e95578a7e014ab1a
+  sha256: ab29066f5e305979802e15716353d0c0af7fee2cd78845e95cace74d81727ed3
 
 build:
   noarch: python
